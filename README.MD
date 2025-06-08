@@ -16,7 +16,7 @@
 
 **Issued by:** Udemy  
 **Focus:** Practical JavaScript Projects  
-🔗 [View Certificate](https://example.com/javascript-10-projects)
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-ec325261-9a62-4633-bd5c-5542fb8dd52a/)
 
 <details>
   <summary><strong>Skills Covered</strong></summary>
@@ -39,7 +39,7 @@
 
 **Issued by:** Udemy  
 **Focus:** Frontend Fundamentals  
-🔗 [View Certificate](https://example.com/css-js-beginners)
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-b09129c8-5d7d-4512-bece-6479868a3c9a/)
 
 <details>
   <summary><strong>Skills Covered</strong></summary>
@@ -64,7 +64,7 @@
 
 **Issued by:** Udemy  
 **Focus:** Full Stack Development  
-🔗 [View Certificate](https://example.com/js-fundamentals-advanced)
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-a1b0c65d-2927-4834-9cfe-3b4b6af8ba93/)
 
 <details>
   <summary><strong>Skills Covered</strong></summary>
@@ -86,7 +86,7 @@
 
 **Issued by:** Udemy  
 **Focus:** Python Game Development  
-🔗 [View Certificate](https://example.com/connect-four-python)
+🔗 [View Certificate](https://www.codecademy.com/profiles/darkpwd/certificates/6c152bd262967f8c941c9707ed636bda)
 
 <details>
   <summary><strong>Skills Covered</strong></summary>
@@ -110,7 +110,7 @@
 
 **Issued by:** Codecademy  
 **Focus:** Python Programming Fundamentals  
-🔗 [View Certificate](https://example.com/learn-python-3)
+🔗 [View Certificate](https://www.codecademy.com/profiles/darkpwd/certificates/6c152bd262967f8c941c9707ed636bda)
 
 <details>
   <summary><strong>Skills Covered</strong></summary>
