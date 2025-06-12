@@ -1,8 +1,8 @@
 ## 🏆 Programming Certifications
 
 > **Showcasing hands-on learning and practical expertise across modern programming stacks.**
-
----
+>
+> > 📌 _Certified in various areas of web and backend development through platforms like Udemy, Codecademy, and Rocketseat. And more_
 
 <table>
   <tr>
