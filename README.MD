@@ -126,7 +126,6 @@
 
 <tr>
 <td align="center" colspan="2" valign="top">
-<hr>
 
 ### 🟢 Node.js Certification
 
