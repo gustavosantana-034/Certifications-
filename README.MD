@@ -126,27 +126,3 @@
 
 <tr>
 <td align="center" colspan="2" valign="top">
-
-### 🟢 Node.js Certification
-
-<sub>_Modern Backend Development with Node.js_</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Issued by:** Rocketseat  
-**Focus:** Node.js Backend Development  
-🔗 [View Certificate](./assets/RockeatSeat-NodeJS-Certificate.jpeg) <!-- Replace # with actual link if available -->
-
-<details>
-  <summary><strong>Skills Covered</strong></summary>
-
-- Node.js Runtime Fundamentals
-- RESTful API Development
-- Express.js Framework
-- Middleware and Routing
-- Asynchronous JavaScript and Promises
-</details>
-
-</td>
-</tr>
----
