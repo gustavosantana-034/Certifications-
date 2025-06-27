@@ -126,3 +126,33 @@
 
 <tr>
 <td align="center" colspan="2" valign="top">
+<hr>
+
+### 🤖 Complete Course JavaScript and TypeScript - Otavio Miranda
+
+<sub>_Full Stack course fundamentals_</sub>
+
+![Full-Stack](https://img.shields.io/badge/Full--Stack-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Issued by:** Udemy
+**Focus:** Full Stack Development
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-59ed0da3-8581-4294-bc01-b99d892902e7/)
+
+<details>
+  <summary><strong>Skills Covered</strong></summary>
+
+- JavaScript Fundamentals
+- Data Structures and Algorithms
+- Frontend fundamentals
+- Object-Oriented Programming
+- Backend fundamentals
+- React
+- Databases
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2" valign="top">
