@@ -156,3 +156,32 @@
 
 <tr>
 <td align="center" colspan="2" valign="top">
+
+<hr>
+
+### ☁️ Masterclass aplicações servless na AWS - Erick Wendel
+
+<sub><em>Cloud fundamentals and back-end development focused training</em></sub>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Issued by:** Erick Wendel Cursos
+**Focus:** Back end Development
+🔗 [View Certificate]('./assets/336416dc2ab189133fb86d009630026a6743.pdf')
+
+<details>
+  <summary><strong>Skills Covered</strong></summary>
+
+- Modern JavaScript Fundamentals
+- Object-Oriented Programming
+- Back-End Architecture Principles
+- Introduction to Cloud Computing with AWS
+- Building Serverless Applications
+</details>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" valign="top">
