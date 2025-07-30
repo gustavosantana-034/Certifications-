@@ -169,7 +169,7 @@
 
 **Issued by:** Erick Wendel Cursos
 **Focus:** Back end Development
-🔗 [View Certificate]('./assets/336416dc2ab189133fb86d009630026a6743.pdf')
+🔗 [View Certificate](./assets/certificate.pdf)
 
 <details>
   <summary><strong>Skills Covered</strong></summary>
